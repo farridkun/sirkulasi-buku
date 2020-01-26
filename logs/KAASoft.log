@@ -1,0 +1,82 @@
+2020-01-26 16:17:02.878 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'installer'[GET:/latihan/libray-cms/].
+2020-01-26 16:18:01.732 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'installer'[POST:/latihan/libray-cms/].
+2020-01-26 16:18:09.429 ::1             [INFO][Installer\Controller\SiteInstallAction:update] Applying file: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v1.sql
+2020-01-26 16:18:12.031 ::1             [INFO][Installer\Controller\SiteInstallAction:update] File applied: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v1.sql
+2020-01-26 16:18:12.032 ::1             [INFO][Installer\Controller\SiteInstallAction:update] Applying file: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v2.sql
+2020-01-26 16:18:13.201 ::1             [INFO][Installer\Controller\SiteInstallAction:update] File applied: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v2.sql
+2020-01-26 16:18:13.202 ::1             [INFO][Installer\Controller\SiteInstallAction:update] Applying file: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v3.sql
+2020-01-26 16:18:15.275 ::1             [INFO][Installer\Controller\SiteInstallAction:update] File applied: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v3.sql
+2020-01-26 16:18:15.276 ::1             [INFO][Installer\Controller\SiteInstallAction:update] Applying file: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v4.sql
+2020-01-26 16:18:15.627 ::1             [INFO][Installer\Controller\SiteInstallAction:update] File applied: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v4.sql
+2020-01-26 16:18:15.627 ::1             [INFO][Installer\Controller\SiteInstallAction:update] Applying file: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v5.sql
+2020-01-26 16:18:18.344 ::1             [INFO][Installer\Controller\SiteInstallAction:update] File applied: C:\xampp\htdocs\latihan\libray-cms\installer\library_cms_schema_update_v5.sql
+2020-01-26 16:18:19.325 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] Public route is in using 'adminLogin'[GET:/latihan/libray-cms/admin/login].
+2020-01-26 16:18:27.223 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] Public route is in using 'adminLogin'[POST:/latihan/libray-cms/admin/login].
+2020-01-26 16:18:27.564 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'adminIndex'[GET:/latihan/libray-cms/admin/].
+2020-01-26 16:18:36.291 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'bookListView'[GET:/latihan/libray-cms/admin/books].
+2020-01-26 16:18:41.434 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[GET:/latihan/libray-cms/admin/user/1/edit].
+2020-01-26 16:18:53.872 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'themesListView'[GET:/latihan/libray-cms/admin/themes].
+2020-01-26 16:19:04.822 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'themeActivate'[POST-AJAX:/latihan/libray-cms/admin/theme/activate].
+2020-01-26 16:19:07.985 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'adminIndex'[GET:/latihan/libray-cms/admin/].
+2020-01-26 16:19:11.788 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'themesListView'[GET:/latihan/libray-cms/admin/themes].
+2020-01-26 16:19:12.859 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'themeActivate'[POST-AJAX:/latihan/libray-cms/admin/theme/activate].
+2020-01-26 16:19:18.344 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'adminIndex'[GET:/latihan/libray-cms/admin/].
+2020-01-26 16:19:21.817 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'bookListView'[GET:/latihan/libray-cms/admin/books].
+2020-01-26 16:19:34.292 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userListView'[GET:/latihan/libray-cms/admin/users].
+2020-01-26 16:19:36.623 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userCreate'[GET:/latihan/libray-cms/admin/user/create/].
+2020-01-26 16:19:52.274 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] Public route is in using 'userEmailCheck'[POST-AJAX:/latihan/libray-cms/user/check-email].
+2020-01-26 16:20:32.808 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userCreate'[POST-AJAX:/latihan/libray-cms/admin/user/create/].
+2020-01-26 16:20:40.479 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'adminIndex'[GET:/latihan/libray-cms/admin/].
+2020-01-26 16:20:43.299 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userListView'[GET:/latihan/libray-cms/admin/users].
+2020-01-26 16:20:46.687 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[GET:/latihan/libray-cms/admin/user/2/edit].
+2020-01-26 16:20:52.442 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userListView'[GET:/latihan/libray-cms/admin/users].
+2020-01-26 16:20:54.573 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[GET:/latihan/libray-cms/admin/user/2/edit].
+2020-01-26 16:20:57.327 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[POST-AJAX:/latihan/libray-cms/admin/user/2/edit].
+2020-01-26 16:20:59.649 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userListView'[GET:/latihan/libray-cms/admin/users].
+2020-01-26 16:21:01.311 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userCreate'[GET:/latihan/libray-cms/admin/user/create/].
+2020-01-26 16:21:09.954 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[GET:/latihan/libray-cms/admin/user/1/edit].
+2020-01-26 16:21:19.401 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[POST-AJAX:/latihan/libray-cms/admin/user/1/edit].
+2020-01-26 16:21:23.944 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userListView'[GET:/latihan/libray-cms/admin/users].
+2020-01-26 16:21:36.434 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] Public route is in using 'userEmailCheck'[POST-AJAX:/latihan/libray-cms/user/check-email].
+2020-01-26 16:21:57.401 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userCreate'[POST-AJAX:/latihan/libray-cms/admin/user/create/].
+2020-01-26 16:22:00.469 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[POST-AJAX:/latihan/libray-cms/admin/user/3/edit].
+2020-01-26 16:22:02.755 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userListView'[GET:/latihan/libray-cms/admin/users].
+2020-01-26 16:22:05.109 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[GET:/latihan/libray-cms/admin/user/3/edit].
+2020-01-26 16:22:17.865 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'publicIndex'[GET:/latihan/libray-cms/].
+2020-01-26 16:22:29.447 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'userEdit'[POST-AJAX:/latihan/libray-cms/admin/user/3/edit].
+2020-01-26 16:22:32.108 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'bookListView'[GET:/latihan/libray-cms/admin/books].
+2020-01-26 16:22:33.193 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'bookCreate'[GET:/latihan/libray-cms/admin/book/create/].
+2020-01-26 16:24:30.230 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:30.383 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:30.517 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:30.579 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:31.002 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:31.134 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:31.305 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:31.631 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:31.859 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:31.992 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:32.067 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:32.765 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:33.487 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:33.630 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:33.721 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:33.791 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:33.900 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:33.949 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:33.982 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:34.004 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:34.030 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'seriesSearchPublic'[POST-AJAX:/latihan/libray-cms/series/search].
+2020-01-26 16:24:50.261 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'reviewListView'[GET:/latihan/libray-cms/admin/reviews].
+2020-01-26 16:24:54.381 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User   [id=1] is using route 'adminLogout'[GET:/latihan/libray-cms/admin/logout].
+2020-01-26 16:24:54.569 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] Public route is in using 'adminLogin'[GET:/latihan/libray-cms/admin/login].
+2020-01-26 16:25:04.076 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] Public route is in using 'adminLogin'[POST:/latihan/libray-cms/admin/login].
+2020-01-26 16:25:04.345 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User Kuntoro Farrid [id=3] is using route 'adminIndex'[GET:/latihan/libray-cms/admin/].
+2020-01-26 16:25:07.117 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User Kuntoro Farrid [id=3] is using route 'userRequestListView'[GET:/latihan/libray-cms/admin/user/requests].
+2020-01-26 16:25:09.289 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User Kuntoro Farrid [id=3] is using route 'userIssuedBooksView'[GET:/latihan/libray-cms/admin/user/issued-books].
+2020-01-26 16:25:10.458 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User Kuntoro Farrid [id=3] is using route 'userBooksView'[GET:/latihan/libray-cms/admin/user/books].
+2020-01-26 16:25:15.073 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] User Kuntoro Farrid [id=3] is using route 'adminLogout'[GET:/latihan/libray-cms/admin/logout].
+2020-01-26 16:25:15.262 ::1             [INFO][KAASoft\Controller\ControllerBase:isPermittedUser] Public route is in using 'adminLogin'[GET:/latihan/libray-cms/admin/login].
+2020-01-26 16:25:18.065 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'publicIndex'[GET:/latihan/libray-cms/].
+2020-01-26 16:25:22.750 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'userRegistration'[GET:/latihan/libray-cms/registration].
+2020-01-26 16:25:27.893 ::1             [INFO][KAASoft\Controller\PublicActionBase:baseStartAction] Public route is in using 'publicIndex'[GET:/latihan/libray-cms/].
